@@ -1,6 +1,6 @@
 package com.playsafe.domain;
 
-public class TemperatureDTO {
+public class DataValueDTO {
 
     private Double value;
 
